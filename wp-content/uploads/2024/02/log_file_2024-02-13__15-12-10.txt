@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: University were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/smpn5
+Data file = C:\xampp\htdocs\smpn5/wp-content/uploads/2024/02/demo-content-import-file_2024-02-13__15-12-10.xml
+Widget file = C:\xampp\htdocs\smpn5/wp-content/uploads/2024/02/demo-widgets-import-file_2024-02-13__15-12-10.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
